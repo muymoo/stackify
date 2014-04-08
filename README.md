@@ -1,4 +1,4 @@
-# Stackify (based on Angular Express Seed)
+# Visual Stack (based on Angular Express Seed)
 
 Visualize stack overflow
 
